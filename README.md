@@ -1,11 +1,3 @@
-
-## Web-Проект "Архив фотографий котиков"
-Описание: проект для создания архива фотографий котиков с указанием их окраса и достижений.
-Стек: Python, Django, Djoser, DRF, PostgreSQL, Pytest, Pillow, CI/CD, GitHub Actions, Gunicorn, Nginx, Certbot
-Результат: kittygram.alexeyadavydov.com
-
-
-
 ## Архив фотографий котиков
 
 ### Описание
