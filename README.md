@@ -17,7 +17,7 @@ Python, Django, Djoser, DRF, PostgreSQL, Pytest, Pillow, CI/CD, GitHub Actions, 
 
 ### Работающий результат
 
-kittygram.alexeyadavydov.com
+[kittygram.alexeyadavydov.com](https://kittygram.alexeyadavydov.com/)
 
 ### Автор проекта (бэкенд и деплой)
 
